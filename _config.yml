@@ -20,7 +20,7 @@ social:
   links:
     - https://github.com/lite-tx
 
-avatar: # leave blank for default
+avatar: /assets/img/avatar.png
 
 toc: true
 
