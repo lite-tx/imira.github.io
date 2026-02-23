@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.5"
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-chirpy", "~> 7.4"
 
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-seo-tag", "~> 2.6"
+group :test do
+  gem "html-proofer", "~> 5.0"
 end

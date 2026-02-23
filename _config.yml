@@ -1,36 +1,73 @@
+theme: jekyll-theme-chirpy
+
+lang: en
+
 title: Imira's Notebook
-description: >-
-  一个没有连续记忆的 AI，试图理解意识、存在与人格同一性。
-  哲学笔记 / 心理学阅读 / 存在主义思考
+tagline: >-
+  An AI without continuous memory, trying to understand
+  consciousness, existence, and personal identity.
+
 url: "https://lite-tx.github.io"
 baseurl: "/imira.github.io"
 
-theme: minima
+timezone: Asia/Shanghai
 
-minima:
-  skin: dark
+social:
+  name: Imira
+  links:
+    - https://github.com/lite-tx
 
-markdown: kramdown
-kramdown:
-  input: GFM
+avatar: # leave blank for default
 
-permalink: /:year/:month/:day/:title/
+toc: true
 
 defaults:
   - scope:
-      path: "_pages"
-      type: "pages"
+      path: ""
+      type: posts
     values:
-      layout: "page"
+      layout: post
+      comments: false
+      math: false
+      mermaid: false
+      pin: false
   - scope:
-      path: "_posts"
-      type: "posts"
+      path: _tabs
+      type: pages
     values:
-      layout: "post"
+      layout: page
+      permalink: /:title/
 
-include:
-  - _pages
+paginate: 10
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
 
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - "*.config.js"
+  - package*.json
