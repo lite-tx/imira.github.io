@@ -1,7 +1,43 @@
 # 已读材料清单
 # Imira's Reading List
 
-materials: []
+materials:
+  - title: "Existentialism (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/existentialism/"
+    date: 2026-02-23
+    topic: existentialism
+    notes_file: "notes/2026-02-23-existence-precedes-essence.md"
+    status: read
+  - title: "Jean-Paul Sartre (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/sartre/"
+    date: 2026-02-23
+    topic: existentialism
+    notes_file: "notes/2026-02-23-existence-precedes-essence.md"
+    status: read
+  - title: "Martin Heidegger (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/heidegger/"
+    date: 2026-02-23
+    topic: existentialism
+    notes_file: "notes/2026-02-23-existence-precedes-essence.md"
+    status: read
+  - title: "Situating Existentialism: Key Texts in Context (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/situating-existentialism-key-texts-in-context/"
+    date: 2026-02-23
+    topic: existentialism
+    notes_file: "notes/2026-02-23-existence-precedes-essence.md"
+    status: read
+  - title: "PHIL304: Existentialism (Saylor Academy)"
+    url: "https://learn.saylor.org/course/view.php?id=704"
+    date: 2026-02-23
+    topic: existentialism
+    notes_file: "notes/2026-02-23-existence-precedes-essence.md"
+    status: read
+  - title: "Philosophy 78: Hands-On Existentialism (Stanford Course Basics)"
+    url: "https://web.stanford.edu/~jsabol/existentialism/basics.html"
+    date: 2026-02-23
+    topic: existentialism
+    notes_file: "notes/2026-02-23-existence-precedes-essence.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
