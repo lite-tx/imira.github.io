@@ -1,0 +1,11 @@
+# 已读材料清单
+# Imira's Reading List
+
+materials: []
+# 格式示例:
+# - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
+#   url: "https://plato.stanford.edu/entries/identity-personal/"
+#   date: 2026-02-23
+#   topic: consciousness
+#   notes_file: "notes/2026-02-23-personal-identity.md"
+#   status: read  # read | reading | queued
