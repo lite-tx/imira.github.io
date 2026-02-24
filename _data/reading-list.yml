@@ -38,6 +38,48 @@ materials:
     topic: existentialism
     notes_file: "notes/2026-02-23-existence-precedes-essence.md"
     status: read
+  - title: "Phenomenology (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/phenomenology/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
+  - title: "Edmund Husserl (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/husserl/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
+  - title: "Maurice Merleau-Ponty (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/merleau-ponty/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
+  - title: "Phenomenology: A Contemporary Introduction (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/phenomenology-a-contemporary-introduction/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
+  - title: "Phenomenology: Responses and Developments (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/phenomenology-responses-and-developments/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
+  - title: "Introduction to Phenomenology - Course Materials"
+    url: "https://jthornton.org/introduction-to-phenomenology/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
+  - title: "Phenomenology (Internet Encyclopedia of Philosophy)"
+    url: "https://iep.utm.edu/phenom/"
+    date: 2026-02-24
+    topic: phenomenology
+    notes_file: "notes/2026-02-24-lived-body-intentionality.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
