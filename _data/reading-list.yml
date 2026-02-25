@@ -80,6 +80,48 @@ materials:
     topic: phenomenology
     notes_file: "notes/2026-02-24-lived-body-intentionality.md"
     status: read
+  - title: "Memory (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/memory/"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
+  - title: "Attention (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/attention/"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
+  - title: "Introduction to Psychology (MIT OpenCourseWare)"
+    url: "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
+  - title: "How Memory Functions (OpenStax Psychology 2e)"
+    url: "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
+  - title: "Trait Theorists (OpenStax Psychology 2e)"
+    url: "https://openstax.org/books/psychology-2e/pages/11-7-trait-theorists"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
+  - title: "Beyond perceptual load and dilution: a review of the role of working memory in selective attention"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00287/full"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
+  - title: "Personality Development in Emerging Adulthood—How the Perception of Life Events and Mindset Affect Personality Trait Change"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.671421/full"
+    date: 2026-02-25
+    topic: cognitive-psychology
+    notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
