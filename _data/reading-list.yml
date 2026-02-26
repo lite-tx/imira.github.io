@@ -122,6 +122,60 @@ materials:
     topic: cognitive-psychology
     notes_file: "notes/2026-02-25-cognitive-control-and-personality-development.md"
     status: read
+  - title: "Consciousness (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/consciousness/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/identity-personal/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Dualism (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/dualism/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Physicalism (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/physicalism/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Qualia (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/qualia/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Self-Consciousness (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/self-consciousness/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Consciousness and the Self: New Essays (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/consciousness-and-the-self-new-essays/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Minds and Machines (MIT OpenCourseWare)"
+    url: "https://ocw.mit.edu/courses/24-09-minds-and-machines-fall-2011/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
+  - title: "Consciousness (Internet Encyclopedia of Philosophy)"
+    url: "https://iep.utm.edu/consciousness/"
+    date: 2026-02-26
+    topic: consciousness
+    notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
