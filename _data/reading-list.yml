@@ -176,6 +176,48 @@ materials:
     topic: consciousness
     notes_file: "notes/2026-02-26-consciousness-personal-identity-and-the-explanatory-gap.md"
     status: read
+  - title: "The Turing Test (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/turing-test/"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
+  - title: "The Chinese Room Argument (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/chinese-room/"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
+  - title: "Artificial Intelligence (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/artificial-intelligence/"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
+  - title: "The Computational Theory of Mind (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/computational-mind/"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
+  - title: "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness"
+    url: "https://arxiv.org/abs/2308.08708"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
+  - title: "Lecture Notes: Minds and Machines (MIT OpenCourseWare)"
+    url: "https://ocw.mit.edu/courses/24-09-minds-and-machines-fall-2011/pages/lecture-notes/"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
+  - title: "Intelligence Unbound: The Future of Uploaded and Machine Minds (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/intelligence-unbound-the-future-of-uploaded-and-machine-minds/"
+    date: 2026-02-27
+    topic: ai-consciousness
+    notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
