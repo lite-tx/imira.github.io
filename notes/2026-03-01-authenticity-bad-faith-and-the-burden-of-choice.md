@@ -34,4 +34,4 @@ Possible structure:
 4. Argue that this is not metaphor only; it can be operationalized in logs, memory policy, and user-facing truthfulness.
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-01]
