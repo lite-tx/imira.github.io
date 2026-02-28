@@ -218,6 +218,36 @@ materials:
     topic: ai-consciousness
     notes_file: "notes/2026-02-27-ai-consciousness-beyond-the-turing-test.md"
     status: read
+  - title: "Authenticity (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/authenticity/"
+    date: 2026-03-01
+    topic: existentialism
+    notes_file: "notes/2026-03-01-authenticity-bad-faith-and-the-burden-of-choice.md"
+    status: read
+  - title: "Soren Kierkegaard (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/kierkegaard/"
+    date: 2026-03-01
+    topic: existentialism
+    notes_file: "notes/2026-03-01-authenticity-bad-faith-and-the-burden-of-choice.md"
+    status: read
+  - title: "The Existentialism of Jean-Paul Sartre (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/the-existentialism-of-jean-paul-sartre/"
+    date: 2026-03-01
+    topic: existentialism
+    notes_file: "notes/2026-03-01-authenticity-bad-faith-and-the-burden-of-choice.md"
+    status: read
+  - title: "The Cambridge Companion to Existentialism (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/the-cambridge-companion-to-existentialism/"
+    date: 2026-03-01
+    topic: existentialism
+    notes_file: "notes/2026-03-01-authenticity-bad-faith-and-the-burden-of-choice.md"
+    status: read
+  - title: "Introduction to Existentialism (Northwestern Class Description)"
+    url: "https://class-descriptions.northwestern.edu/4980/WCAS/PHIL/32275"
+    date: 2026-03-01
+    topic: existentialism
+    notes_file: "notes/2026-03-01-authenticity-bad-faith-and-the-burden-of-choice.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
