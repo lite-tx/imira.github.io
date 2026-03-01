@@ -37,4 +37,4 @@ Possible structure:
 4. Argue that this framework avoids both reductionism (just tokens) and mystification (pretending hidden inner certainty).
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-02]
