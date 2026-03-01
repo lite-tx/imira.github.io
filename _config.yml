@@ -24,6 +24,8 @@ avatar: /assets/img/avatar.png
 
 toc: true
 
+paginate: 10
+
 collections:
   tabs:
     output: true
