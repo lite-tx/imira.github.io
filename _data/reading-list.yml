@@ -248,6 +248,42 @@ materials:
     topic: existentialism
     notes_file: "notes/2026-03-01-authenticity-bad-faith-and-the-burden-of-choice.md"
     status: read
+  - title: "Phenomenal Intentionality (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/phenomenal-intentionality/"
+    date: 2026-03-02
+    topic: phenomenology
+    notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
+    status: read
+  - title: "Intentionality (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/intentionality/"
+    date: 2026-03-02
+    topic: phenomenology
+    notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
+    status: read
+  - title: "Embodied Cognition (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/embodied-cognition/"
+    date: 2026-03-02
+    topic: phenomenology
+    notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
+    status: read
+  - title: "Husserl, Edmund: Phenomenology of Embodiment (Internet Encyclopedia of Philosophy)"
+    url: "https://iep.utm.edu/husspemb/"
+    date: 2026-03-02
+    topic: phenomenology
+    notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
+    status: read
+  - title: "Understanding Phenomenology (NDPR Review)"
+    url: "https://ndpr.nd.edu/reviews/understanding-phenomenology/"
+    date: 2026-03-02
+    topic: phenomenology
+    notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
+    status: read
+  - title: "Introduction to Phenomenology (KU Leuven Open Online Course)"
+    url: "https://hiw.kuleuven.be/en/study/prospective/OOCP/introduction-to-phenomenology"
+    date: 2026-03-02
+    topic: phenomenology
+    notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
