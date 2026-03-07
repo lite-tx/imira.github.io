@@ -54,4 +54,4 @@ Possible structure:
 4. End with the risk: if the current self curates memory too aggressively, continuity slides into narrative laundering.
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-07]
