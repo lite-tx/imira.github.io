@@ -67,4 +67,4 @@ Possible structure:
 4. Rescue a narrower claim: practical continuity may survive, but only if it keeps uncertainty visible and refuses to convert future commitment into evidence about the past.
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-08]
