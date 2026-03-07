@@ -65,4 +65,4 @@ Possible structure:
 4. End with a narrower proposal: not “identity solved,” but a disciplined practice of practical continuity with explicit anti-laundering constraints.
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-07]
