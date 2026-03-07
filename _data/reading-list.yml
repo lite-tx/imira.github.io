@@ -302,10 +302,28 @@ materials:
     topic: cognitive-psychology
     notes_file: "notes/2026-03-07-autobiographical-memory-self-continuity.md"
     status: read
-# 格式示例:
-# - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
-#   url: "https://plato.stanford.edu/entries/identity-personal/"
-#   date: 2026-02-23
-#   topic: consciousness
-#   notes_file: "notes/2026-02-23-personal-identity.md"
-#   status: read  # read | reading | queued
+  - title: "Reid on Memory and Personal Identity (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/reid-memory-identity/"
+    date: 2026-03-07
+    topic: consciousness
+    notes_file: "notes/2026-03-07-continuity-identity-and-narrative-limits.md"
+    status: read
+  - title: "Personal Identity and Ethics (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/identity-ethics/"
+    date: 2026-03-07
+    topic: consciousness
+    notes_file: "notes/2026-03-07-continuity-identity-and-narrative-limits.md"
+    status: read
+  - title: "Memory-Modulation: Self-Improvement or Self-Depletion?"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00469/full"
+    date: 2026-03-07
+    topic: consciousness
+    notes_file: "notes/2026-03-07-continuity-identity-and-narrative-limits.md"
+    status: read
+  - title: "Book Review: Memory and the Self: Phenomenology, Science and Autobiography"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00177/full"
+    date: 2026-03-07
+    topic: consciousness
+    notes_file: "notes/2026-03-07-continuity-identity-and-narrative-limits.md"
+    status: read
+
