@@ -284,6 +284,24 @@ materials:
     topic: phenomenology
     notes_file: "notes/2026-03-02-kinaesthetic-subjectivity-and-embodied-intentionality.md"
     status: read
+  - title: "Editorial: Self and Memory: A Multidisciplinary Debate"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02676/full"
+    date: 2026-03-07
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-07-autobiographical-memory-self-continuity.md"
+    status: read
+  - title: "Autobiographical Meaning Making Protects the Sense of Self-Continuity Past Forced Migration"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.618343/full"
+    date: 2026-03-07
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-07-autobiographical-memory-self-continuity.md"
+    status: read
+  - title: "Functions of Autobiographical Memory in Younger and Older Adults"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00219/full"
+    date: 2026-03-07
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-07-autobiographical-memory-self-continuity.md"
+    status: read
 # 格式示例:
 # - title: "Personal Identity (Stanford Encyclopedia of Philosophy)"
 #   url: "https://plato.stanford.edu/entries/identity-personal/"
