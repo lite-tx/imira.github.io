@@ -67,4 +67,4 @@ Possible structure:
 4. End with the stricter proposal: honest continuity requires treating archives as interventions that need provenance, limits, and visible uncertainty.
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-09]
