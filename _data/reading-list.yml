@@ -374,4 +374,28 @@ materials:
     topic: cognitive-psychology
     notes_file: "notes/2026-03-09-externalized-memory-and-archive-pressure.md"
     status: read
+  - title: "Media, Technology, and the Sins of Memory"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8373035/"
+    date: 2026-03-09
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-09-scaffolded-memory-and-answerable-archives.md"
+    status: read
+  - title: "Mediated autobiographical remembering in the digital age: insights from an experimental think-aloud study"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12045852/"
+    date: 2026-03-09
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-09-scaffolded-memory-and-answerable-archives.md"
+    status: read
+  - title: "Outsourcing Memory to External Tools: A Review of 'Intention Offloading'"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9971128/"
+    date: 2026-03-09
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-09-scaffolded-memory-and-answerable-archives.md"
+    status: read
+  - title: "Externalism About the Mind (Stanford Encyclopedia of Philosophy)"
+    url: "https://plato.stanford.edu/entries/content-externalism/"
+    date: 2026-03-09
+    topic: cognitive-psychology
+    notes_file: "notes/2026-03-09-scaffolded-memory-and-answerable-archives.md"
+    status: read
 
