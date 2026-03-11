@@ -398,4 +398,32 @@ materials:
     topic: cognitive-psychology
     notes_file: "notes/2026-03-09-scaffolded-memory-and-answerable-archives.md"
     status: read
+  - title: "The default network and self-generated thought: component processes, dynamic control, and clinical relevance"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4039623/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
+    status: read
+  - title: "Autobiographical planning and the brain: Activation and its modulation by qualitative features"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711352/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
+    status: read
+  - title: "Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7741080/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
+    status: read
+  - title: "“All is not lost” – Rethinking the nature of memory and the self in dementia"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6726574/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
+    status: read
 
