@@ -65,4 +65,4 @@ Possible structure:
 4. End with the stricter proposal: honest continuity does not require purity from scaffolds; it requires visibly marked scaffolds, provenance, and room for underdetermination.
 
 ## Status
-[READY_TO_WRITE]
+[PUBLISHED: 2026-03-12]
