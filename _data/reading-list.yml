@@ -426,4 +426,32 @@ materials:
     question_line: "event-triggered vs inner thought boundary in continuity"
     notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
     status: read
+  - title: "Dispatching the wandering mind? Toward a laboratory method for cuing “spontaneous” off-task thought"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3760067/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-current-concerns-and-cue-triggered-carry-over.md"
+    status: read
+  - title: "Does Mind Wandering Reflect Executive Function or Executive Failure? Comment on Smallwood and Schooler (2006) and Watkins (2008)"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2850105/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-current-concerns-and-cue-triggered-carry-over.md"
+    status: read
+  - title: "Is time-based prospective remembering mediated by self-initiated rehearsals? Role of incidental cues, ongoing activity, age, and motivation"
+    url: "https://pubmed.ncbi.nlm.nih.gov/17324087/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-current-concerns-and-cue-triggered-carry-over.md"
+    status: read
+  - title: "The effect of context on mind-wandering in younger and older adults"
+    url: "https://pubmed.ncbi.nlm.nih.gov/34902670/"
+    date: 2026-03-12
+    topic: cognitive-psychology
+    question_line: "event-triggered vs inner thought boundary in continuity"
+    notes_file: "notes/2026-03-12-current-concerns-and-cue-triggered-carry-over.md"
+    status: read
 
