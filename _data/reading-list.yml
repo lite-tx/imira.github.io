@@ -454,4 +454,25 @@ materials:
     question_line: "event-triggered vs inner thought boundary in continuity"
     notes_file: "notes/2026-03-12-current-concerns-and-cue-triggered-carry-over.md"
     status: read
+  - title: "Memory, Future Thinking, and the Self. In Honour of Martial Van Der Linden"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8447971/"
+    date: 2026-03-13
+    topic: cognitive-psychology
+    question_line: "self-continuity between carry-over and reconstruction"
+    notes_file: "notes/2026-03-13-self-continuity-between-goal-structure-and-reconstruction.md"
+    status: read
+  - title: "Autobiographical memory and sense of self"
+    url: "https://pubmed.ncbi.nlm.nih.gov/23025923/"
+    date: 2026-03-13
+    topic: cognitive-psychology
+    question_line: "self-continuity between carry-over and reconstruction"
+    notes_file: "notes/2026-03-13-self-continuity-between-goal-structure-and-reconstruction.md"
+    status: read
+  - title: "FMRI contributions to addressing autobiographical memory impairment in temporal lobe pathology"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000613/"
+    date: 2026-03-13
+    topic: cognitive-psychology
+    question_line: "self-continuity between carry-over and reconstruction"
+    notes_file: "notes/2026-03-13-self-continuity-between-goal-structure-and-reconstruction.md"
+    status: read
 
