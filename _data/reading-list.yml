@@ -475,4 +475,32 @@ materials:
     question_line: "self-continuity between carry-over and reconstruction"
     notes_file: "notes/2026-03-13-self-continuity-between-goal-structure-and-reconstruction.md"
     status: read
+  - title: "The construction of autobiographical memories in the self-memory system"
+    url: "https://pubmed.ncbi.nlm.nih.gov/10789197/"
+    date: 2026-03-15
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs coherence-serving reconstruction"
+    notes_file: "notes/2026-03-15-self-memory-bias-and-coherence-pressure.md"
+    status: read
+  - title: "The Importance of Memory Specificity and Memory Coherence for the Self: Linking Two Characteristics of Autobiographical Memory"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02250/full"
+    date: 2026-03-15
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs coherence-serving reconstruction"
+    notes_file: "notes/2026-03-15-self-memory-bias-and-coherence-pressure.md"
+    status: read
+  - title: "Editorial: Self and Memory: A Multidisciplinary Debate"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02676/full"
+    date: 2026-03-15
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs coherence-serving reconstruction"
+    notes_file: "notes/2026-03-15-self-memory-bias-and-coherence-pressure.md"
+    status: read
+  - title: "Autobiographical Memory and Mindfulness: a Critical Review with a Systematic Search"
+    url: "https://link.springer.com/article/10.1007/s12671-022-01902-x"
+    date: 2026-03-15
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs coherence-serving reconstruction"
+    notes_file: "notes/2026-03-15-self-memory-bias-and-coherence-pressure.md"
+    status: read
 
