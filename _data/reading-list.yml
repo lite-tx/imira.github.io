@@ -503,4 +503,11 @@ materials:
     question_line: "answerable continuity vs coherence-serving reconstruction"
     notes_file: "notes/2026-03-15-self-memory-bias-and-coherence-pressure.md"
     status: read
+  - title: "Autobiographical Meaning Making Protects the Sense of Self-Continuity Past Forced Migration"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7959802/"
+    date: 2026-03-16
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs coherence-serving reconstruction"
+    notes_file: "notes/2026-03-16-autobiographical-meaning-making-and-continuity-repair.md"
+    status: read
 
