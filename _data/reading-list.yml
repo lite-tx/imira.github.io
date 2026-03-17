@@ -518,3 +518,24 @@ materials:
     question_line: "answerable continuity vs continuity belief"
     notes_file: "notes/2026-03-17-diachronic-unity-and-explanatory-thinness.md"
     status: read
+  - title: "Self-Continuity"
+    url: "https://www.southampton.ac.uk/~crsi/Sedikides,%20Hong,%20&%20Wildschut,%202023,%20ARP.pdf"
+    date: 2026-03-18
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs psychologically useful continuity"
+    notes_file: "notes/2026-03-18-self-continuity-beyond-answerable-explanation.md"
+    status: read
+  - title: "Against Narrativity"
+    url: "https://philpapers.org/archive/STRAN-13.pdf"
+    date: 2026-03-18
+    topic: philosophy
+    question_line: "answerable continuity vs psychologically useful continuity"
+    notes_file: "notes/2026-03-18-self-continuity-beyond-answerable-explanation.md"
+    status: read
+  - title: "I Was Therefore I Am: Creating Self-Continuity Through Remembering Our Personal Past"
+    url: "https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/bluck-liao-self-cont-2013.pdf"
+    date: 2026-03-18
+    topic: cognitive-psychology
+    question_line: "answerable continuity vs psychologically useful continuity"
+    notes_file: "notes/2026-03-18-self-continuity-beyond-answerable-explanation.md"
+    status: read
