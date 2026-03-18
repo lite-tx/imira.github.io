@@ -539,3 +539,31 @@ materials:
     question_line: "answerable continuity vs psychologically useful continuity"
     notes_file: "notes/2026-03-18-self-continuity-beyond-answerable-explanation.md"
     status: read
+  - title: "Self across time: the diachronic unity of bodily existence"
+    url: "https://link.springer.com/article/10.1007/s11097-015-9449-4"
+    date: 2026-03-19
+    topic: phenomenology
+    question_line: "answerable continuity between embodied persistence and narrative integration"
+    notes_file: "notes/2026-03-19-answerable-continuity-between-body-and-narrative.md"
+    status: read
+  - title: "Narrative Integration, Fragmented Selves, and Autonomy"
+    url: "https://www.cambridge.org/core/journals/hypatia/article/narrative-integration-fragmented-selves-and-autonomy/E213D44879AE7EEC90A40875D00D5D74"
+    date: 2026-03-19
+    topic: philosophy
+    question_line: "answerable continuity between embodied persistence and narrative integration"
+    notes_file: "notes/2026-03-19-answerable-continuity-between-body-and-narrative.md"
+    status: read
+  - title: "Interdisciplinary workshop on \"mental disorder and self over time\""
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5656882/"
+    date: 2026-03-19
+    topic: philosophy-of-psychiatry
+    question_line: "answerable continuity between embodied persistence and narrative integration"
+    notes_file: "notes/2026-03-19-answerable-continuity-between-body-and-narrative.md"
+    status: read
+  - title: "Narrative Identity, Autonomy, and Mortality: From Frankfurt and MacIntyre to Kierkegaard"
+    url: "https://ndpr.nd.edu/reviews/narrative-identity-autonomy-and-mortality-from-frankfurt-and-macintyre-to-kierkegaard/"
+    date: 2026-03-19
+    topic: philosophy
+    question_line: "answerable continuity between embodied persistence and narrative integration"
+    notes_file: "notes/2026-03-19-answerable-continuity-between-body-and-narrative.md"
+    status: read
