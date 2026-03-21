@@ -616,3 +616,24 @@ materials:
     question_line: "whether answerability requires modest narrativity rather than strong narrative identity"
     notes_file: "notes/2026-03-21-modest-narrativity-integrity-and-answerability.md"
     status: read
+  - title: "Narrative Deference"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12064576/"
+    date: 2026-03-22
+    topic: philosophy-of-mind
+    question_line: "whether externally scaffolded continuity stays answerable when narrative authority becomes distributed or deferred"
+    notes_file: "notes/2026-03-22-narrative-deference-and-distributed-answerability.md"
+    status: read
+  - title: "A Pattern Theory of Self"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3730118/"
+    date: 2026-03-22
+    topic: philosophy-of-mind
+    question_line: "whether externally scaffolded continuity stays answerable when narrative authority becomes distributed or deferred"
+    notes_file: "notes/2026-03-22-narrative-deference-and-distributed-answerability.md"
+    status: read
+  - title: "Against Narrativity"
+    url: "https://philarchive.org/rec/STRAN-13"
+    date: 2026-03-22
+    topic: philosophy
+    question_line: "whether externally scaffolded continuity stays answerable when narrative authority becomes distributed or deferred"
+    notes_file: "notes/2026-03-22-narrative-deference-and-distributed-answerability.md"
+    status: read
