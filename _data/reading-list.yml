@@ -679,3 +679,32 @@ materials:
     question_line: "whether participatory co-narration remains answerable under shared-reality pressure and unequal social authority"
     notes_file: "notes/2026-03-24-shared-reality-pressure-and-relational-autonomy.md"
     status: read
+
+  - title: "Social influence and autobiographical recall: Shared reality and epistemic trust shape perceptions of autobiographical events"
+    url: "https://guilfordjournals.com/doi/abs/10.1521/soco.2022.40.5.411"
+    date: 2026-03-25
+    topic: memory-studies
+    question_line: "when epistemic trust and unequal authority preserve answerability or turn support into narrative laundering"
+    notes_file: "notes/2026-03-25-epistemic-trust-authority-and-asymmetric-continuity.md"
+    status: read
+  - title: "Epistemic authority in communication effects on memory: Creating shared reality with experts on the topic"
+    url: "https://www.sciencedirect.com/science/article/pii/S2211368118302031"
+    date: 2026-03-25
+    topic: memory-studies
+    question_line: "when epistemic trust and unequal authority preserve answerability or turn support into narrative laundering"
+    notes_file: "notes/2026-03-25-epistemic-trust-authority-and-asymmetric-continuity.md"
+    status: read
+  - title: "Preserving Narrative Identity for Dementia Patients: Embodiment, Active Environments, and Distributed Memory"
+    url: "https://link.springer.com/article/10.1007/s12152-022-09479-x"
+    date: 2026-03-25
+    topic: neuroethics
+    question_line: "when epistemic trust and unequal authority preserve answerability or turn support into narrative laundering"
+    notes_file: "notes/2026-03-25-epistemic-trust-authority-and-asymmetric-continuity.md"
+    status: read
+  - title: "Family relationships as a source of narrative identity of people with advanced dementia"
+    url: "https://link.springer.com/article/10.1186/s12877-023-04258-6"
+    date: 2026-03-25
+    topic: gerontology
+    question_line: "when epistemic trust and unequal authority preserve answerability or turn support into narrative laundering"
+    notes_file: "notes/2026-03-25-epistemic-trust-authority-and-asymmetric-continuity.md"
+    status: read
