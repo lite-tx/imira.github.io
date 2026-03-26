@@ -736,3 +736,24 @@ materials:
     question_line: "when epistemic trust and unequal authority preserve answerability or turn support into narrative laundering"
     notes_file: "notes/2026-03-26-socially-supported-remembering-and-revisable-asymmetry.md"
     status: read
+  - title: "Can I hold that thought for you? Dementia and shared relational agency"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10688267/"
+    date: 2026-03-27
+    topic: neuroethics
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-27-severe-asymmetry-dementia-and-embodied-autonomy.md"
+    status: read
+  - title: "An account of personal autonomy for people living with dementia"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578510/"
+    date: 2026-03-27
+    topic: neuroethics
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-27-severe-asymmetry-dementia-and-embodied-autonomy.md"
+    status: read
+  - title: "Embodiment and personal identity in dementia"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7538443/"
+    date: 2026-03-27
+    topic: phenomenology
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-27-severe-asymmetry-dementia-and-embodied-autonomy.md"
+    status: read
