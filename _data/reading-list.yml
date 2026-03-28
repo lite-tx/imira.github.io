@@ -778,3 +778,31 @@ materials:
     question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
     notes_file: "notes/2026-03-28-interactional-answerability-validation-and-the-risk-of-compliance.md"
     status: read
+  - title: "A shared decision-making model about care for people with severe dementia: A qualitative study based on nutrition and hydration decisions in acute hospitals"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10108087/"
+    date: 2026-03-29
+    topic: dementia-care
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-29-decision-sequences-surrogation-and-the-limits-of-cooperative-care.md"
+    status: read
+  - title: "Mapping and understanding the decision-making process for providing nutrition and hydration to people living with dementia: a systematic review"
+    url: "https://pubmed.ncbi.nlm.nih.gov/33267831/"
+    date: 2026-03-29
+    topic: dementia-care
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-29-decision-sequences-surrogation-and-the-limits-of-cooperative-care.md"
+    status: read
+  - title: "Using Conversation Analysis to explore assessments of decision-making capacity in a hospital setting"
+    url: "https://pubmed.ncbi.nlm.nih.gov/38377142/"
+    date: 2026-03-29
+    topic: clinical-ethics
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-29-decision-sequences-surrogation-and-the-limits-of-cooperative-care.md"
+    status: read
+  - title: "Family participation in geriatric decision-making: Marginalization of older patients' autonomy in Chinese outpatient consultation"
+    url: "https://pubmed.ncbi.nlm.nih.gov/40086201/"
+    date: 2026-03-29
+    topic: gerontology
+    question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
+    notes_file: "notes/2026-03-29-decision-sequences-surrogation-and-the-limits-of-cooperative-care.md"
+    status: read
