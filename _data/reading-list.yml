@@ -419,14 +419,14 @@ materials:
     question_line: "event-triggered vs inner thought boundary in continuity"
     notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
     status: read
-  - title: "“All is not lost” – Rethinking the nature of memory and the self in dementia"
+  - title: ""All is not lost" – Rethinking the nature of memory and the self in dementia"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6726574/"
     date: 2026-03-12
     topic: cognitive-psychology
     question_line: "event-triggered vs inner thought boundary in continuity"
     notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
     status: read
-  - title: "Dispatching the wandering mind? Toward a laboratory method for cuing “spontaneous” off-task thought"
+  - title: "Dispatching the wandering mind? Toward a laboratory method for cuing "spontaneous" off-task thought"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3760067/"
     date: 2026-03-12
     topic: cognitive-psychology
@@ -504,13 +504,12 @@ materials:
     notes_file: "notes/2026-03-15-self-memory-bias-and-coherence-pressure.md"
     status: read
   - title: "Autobiographical Meaning Making Protects the Sense of Self-Continuity Past Forced Migration"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7959802/"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.671421/full"
     date: 2026-03-16
     topic: cognitive-psychology
     question_line: "answerable continuity vs coherence-serving reconstruction"
     notes_file: "notes/2026-03-16-autobiographical-meaning-making-and-continuity-repair.md"
     status: read
-
   - title: "The Persistence of the Self over Time in Mild Cognitive Impairment and Alzheimer's Disease"
     url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00094/full"
     date: 2026-03-17
@@ -679,7 +678,6 @@ materials:
     question_line: "whether participatory co-narration remains answerable under shared-reality pressure and unequal social authority"
     notes_file: "notes/2026-03-24-shared-reality-pressure-and-relational-autonomy.md"
     status: read
-
   - title: "Social influence and autobiographical recall: Shared reality and epistemic trust shape perceptions of autobiographical events"
     url: "https://guilfordjournals.com/doi/abs/10.1521/soco.2022.40.5.411"
     date: 2026-03-25
@@ -806,7 +804,6 @@ materials:
     question_line: "when severe asymmetry still preserves answerability and when support starts settling a life for someone else"
     notes_file: "notes/2026-03-29-decision-sequences-surrogation-and-the-limits-of-cooperative-care.md"
     status: read
-
   - title: "Epistemic Injustice in Late-Stage Dementia: A Case for Non-Verbal Testimonial Injustice"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9928428/"
     date: 2026-03-30
@@ -814,7 +811,6 @@ materials:
     question_line: "non-verbal communicative practices and epistemic justice in severe asymmetry"
     notes_file: "notes/2026-03-30-non-verbal-answerability-and-chosen-support.md"
     status: read
-
   - title: "Experiences and perceptions of everyday decision-making in the lives of adults with intellectual disabilities"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12397535/"
     date: 2026-03-30
@@ -822,7 +818,6 @@ materials:
     question_line: "supported decision-making practices across fields"
     notes_file: "notes/2026-03-30-non-verbal-answerability-and-chosen-support.md"
     status: read
-
   - title: "Communication strategies for delivering personalised dementia care: a mixed-methods systematic review"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078768/"
     date: 2026-03-30
@@ -830,7 +825,6 @@ materials:
     question_line: "concrete professional practices for personalised care"
     notes_file: "notes/2026-03-30-non-verbal-answerability-and-chosen-support.md"
     status: read
-
   - title: "The meaning of autonomy when living with dementia: A Q-method investigation"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369913/"
     date: 2026-03-30
@@ -838,7 +832,6 @@ materials:
     question_line: "plural conceptions of autonomy among people with dementia"
     notes_file: "notes/2026-03-30-non-verbal-answerability-and-chosen-support.md"
     status: read
-
   - title: "Shared decision-making in persons living with dementia: A scoping review"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866150/"
     date: 2026-03-30
@@ -846,7 +839,6 @@ materials:
     question_line: "evidence for shared decision-making in dementia"
     notes_file: "notes/2026-03-30-non-verbal-answerability-and-chosen-support.md"
     status: read
-
   - title: "Involvement of people with dementia in making decisions about their lives: a qualitative study that appraises shared decision-making concerning daycare"
     url: "https://bmjopen.bmj.com/content/7/11/e018337"
     date: 2026-03-31
@@ -854,7 +846,6 @@ materials:
     question_line: "when severe asymmetry still preserves answerability and when shared decision-making deserves its name"
     notes_file: "notes/2026-03-31-experienced-preferences-and-mediated-participation.md"
     status: read
-
   - title: "Using Shared Decision-Making Resources in Long-Term Care: a Qualitative Study"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10198683/"
     date: 2026-03-31
@@ -862,11 +853,25 @@ materials:
     question_line: "what happens when institutions try to operationalise shared decision-making"
     notes_file: "notes/2026-03-31-experienced-preferences-and-mediated-participation.md"
     status: read
-
   - title: "Use of the Patient Portal to Discuss Medications Among People with Dementia and Their Care Partners"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11618272/"
     date: 2026-03-31
     topic: digital-health
     question_line: "whether mediated channels can preserve medication answerability for people with dementia"
     notes_file: "notes/2026-03-31-experienced-preferences-and-mediated-participation.md"
+    status: read
+
+  - title: "Legal decision making and dementia: a discourse and conversation analysis study"
+    url: "https://etheses.bham.ac.uk/id/eprint/13809/"
+    date: 2026-03-31
+    topic: clinical-ethics
+    question_line: "when institutional capacity checks preserve answerability and when they test the wrong thing"
+    notes_file: "notes/2026-03-31-epistemic-domains-and-capacity-checking.md"
+    status: read
+  - title: "Difficulties in disclosing the diagnosis of dementia: a qualitative study in general practice"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3404332/"
+    date: 2026-03-31
+    topic: dementia-care
+    question_line: "when institutional capacity checks preserve answerability and when they test the wrong thing"
+    notes_file: "notes/2026-03-31-epistemic-domains-and-capacity-checking.md"
     status: read
