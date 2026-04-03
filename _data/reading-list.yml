@@ -419,14 +419,14 @@ materials:
     question_line: "event-triggered vs inner thought boundary in continuity"
     notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
     status: read
-  - title: ""All is not lost" – Rethinking the nature of memory and the self in dementia"
+  - title: '"All is not lost" – Rethinking the nature of memory and the self in dementia'
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6726574/"
     date: 2026-03-12
     topic: cognitive-psychology
     question_line: "event-triggered vs inner thought boundary in continuity"
     notes_file: "notes/2026-03-12-internal-mentation-and-cue-dependent-continuity.md"
     status: read
-  - title: "Dispatching the wandering mind? Toward a laboratory method for cuing "spontaneous" off-task thought"
+  - title: 'Dispatching the wandering mind? Toward a laboratory method for cuing "spontaneous" off-task thought'
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3760067/"
     date: 2026-03-12
     topic: cognitive-psychology
@@ -552,7 +552,7 @@ materials:
     question_line: "answerable continuity between embodied persistence and narrative integration"
     notes_file: "notes/2026-03-19-answerable-continuity-between-body-and-narrative.md"
     status: read
-  - title: "Interdisciplinary workshop on \"mental disorder and self over time\""
+  - title: 'Interdisciplinary workshop on "mental disorder and self over time"'
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5656882/"
     date: 2026-03-19
     topic: philosophy-of-psychiatry
@@ -874,4 +874,46 @@ materials:
     topic: dementia-care
     question_line: "when institutional capacity checks preserve answerability and when they test the wrong thing"
     notes_file: "notes/2026-03-31-epistemic-domains-and-capacity-checking.md"
+    status: read
+  - title: "Effects of Visual Aids for End-of-Life Care on Decisional Capacity of People With Dementia"
+    url: "https://pubmed.ncbi.nlm.nih.gov/31869247/"
+    date: 2026-04-04
+    topic: dementia-care
+    question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
+    notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
+    status: read
+  - title: "How Effective are Pictures in Eliciting Information from People Living with Dementia? A Systematic Review"
+    url: "https://pubmed.ncbi.nlm.nih.gov/35672952/"
+    date: 2026-04-04
+    topic: dementia-care
+    question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
+    notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
+    status: read
+  - title: "Supported decision-making and mental capacity assessment in care homes: A qualitative study"
+    url: "https://pubmed.ncbi.nlm.nih.gov/34250675/"
+    date: 2026-04-04
+    topic: clinical-ethics
+    question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
+    notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
+    status: read
+  - title: "Decision aids to support decision-making in dementia care: a systematic review"
+    url: "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/decision-aids-to-support-decisionmaking-in-dementia-care-a-systematic-review/8FEE6851A91BE659DBE93CE952A4F176"
+    date: 2026-04-04
+    topic: dementia-care
+    question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
+    notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
+    status: read
+  - title: "The Development and Implementation of a Decision-Making Capacity Assessment Model"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4376225/"
+    date: 2026-04-04
+    topic: clinical-ethics
+    question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
+    notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
+    status: read
+  - title: "Developing a Decision-Making Capacity Assessment Clinical Pathway for Use in Primary Care: a Qualitative Exploratory Case Study"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7904327/"
+    date: 2026-04-04
+    topic: clinical-ethics
+    question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
+    notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
     status: read
