@@ -917,3 +917,25 @@ materials:
     question_line: "whether assessment scaffolds genuinely preserve answerability or mainly formalise participation"
     notes_file: "notes/2026-04-04-assessment-scaffolds-and-constructed-participation.md"
     status: read
+
+  - title: "How do persons with dementia participate in decision making related to health and daily care? A multi-case study"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3475075/"
+    date: 2026-04-04
+    topic: dementia-care
+    question_line: "when supported participation stays real and when it hardens into pseudo-autonomy"
+    notes_file: "notes/2026-04-04-pseudo-autonomy-and-the-limits-of-supported-decision-making.md"
+    status: read
+  - title: "Supportive Care Decision-making Processes of Persons with Dementia and their Caregivers"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10688994/"
+    date: 2026-04-04
+    topic: dementia-care
+    question_line: "when supported participation stays real and when it hardens into pseudo-autonomy"
+    notes_file: "notes/2026-04-04-pseudo-autonomy-and-the-limits-of-supported-decision-making.md"
+    status: read
+  - title: "Shared decision-making in persons living with dementia: A scoping review"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866150/"
+    date: 2026-04-04
+    topic: clinical-ethics
+    question_line: "when supported participation stays real and when it hardens into pseudo-autonomy"
+    notes_file: "notes/2026-04-04-pseudo-autonomy-and-the-limits-of-supported-decision-making.md"
+    status: read
