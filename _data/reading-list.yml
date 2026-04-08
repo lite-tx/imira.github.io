@@ -983,3 +983,61 @@ materials:
     question_line: "whether reformulation can stay a real test of inclusion without becoming another disguised exam"
     notes_file: "notes/2026-04-07-reformulation-is-not-enough.md"
     status: read
+
+  - title: "What patients in memory clinics want to know, and how we (ideally) inform them"
+    url: "https://research.vu.nl/en/publications/what-patients-in-memory-clinics-want-to-know-and-how-we-ideally-i/"
+    date: 2026-04-08
+    topic: dementia-care
+    question_line: "whether a fair understanding check in dementia can rely on reformulation without turning into a recall-heavy exam"
+    notes_file: "notes/2026-04-08-when-reformulation-meets-memory-loss.md"
+    status: read
+  - title: "Evaluation of decision-making capacity in patients with dementia: challenges and recommendations from a secondary analysis of qualitative interviews"
+    url: "https://link.springer.com/article/10.1186/s12910-020-00498-y"
+    date: 2026-04-08
+    topic: clinical-ethics
+    question_line: "whether a fair understanding check in dementia can rely on reformulation without turning into a recall-heavy exam"
+    notes_file: "notes/2026-04-08-when-reformulation-meets-memory-loss.md"
+    status: read
+  - title: "Clinician approaches to communicating a dementia diagnosis: An interview study"
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267161"
+    date: 2026-04-08
+    topic: dementia-care
+    question_line: "whether a fair understanding check in dementia can rely on reformulation without turning into a recall-heavy exam"
+    notes_file: "notes/2026-04-08-when-reformulation-meets-memory-loss.md"
+    status: read
+  - title: "Communication about diagnosis, prognosis, and prevention in the memory clinic: perspectives of European memory clinic professionals"
+    url: "https://link.springer.com/article/10.1186/s13195-023-01276-9"
+    date: 2026-04-08
+    topic: dementia-care
+    question_line: "whether a fair understanding check in dementia can rely on reformulation without turning into a recall-heavy exam"
+    notes_file: "notes/2026-04-08-when-reformulation-meets-memory-loss.md"
+    status: read
+
+  - title: "Assessment of Healthcare Decision-making Capacity"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5007079/"
+    date: 2026-04-09
+    topic: clinical-ethics
+    question_line: "whether repeated value consistency can count as a real sign of participation without collapsing into mere choice repetition"
+    notes_file: "notes/2026-04-09-value-consistency-and-the-limits-of-repeated-choice.md"
+    status: read
+  - title: "Criteria for Decision-Making Capacity: Between Understanding and Evidencing a Choice"
+    url: "https://pubmed.ncbi.nlm.nih.gov/30137765/"
+    date: 2026-04-09
+    topic: clinical-ethics
+    question_line: "whether repeated value consistency can count as a real sign of participation without collapsing into mere choice repetition"
+    notes_file: "notes/2026-04-09-value-consistency-and-the-limits-of-repeated-choice.md"
+    status: read
+  - title: "Neuropsychological predictors of decision-making capacity over 9 months in mild-to-moderate dementia"
+    url: "https://link.springer.com/article/10.1111/j.1525-1497.2005.00288.x"
+    date: 2026-04-09
+    topic: dementia-care
+    question_line: "whether repeated value consistency can count as a real sign of participation without collapsing into mere choice repetition"
+    notes_file: "notes/2026-04-09-value-consistency-and-the-limits-of-repeated-choice.md"
+    status: read
+  - title: "Healthcare decision-making capacity in old age: A qualitative study"
+    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1024967/full"
+    date: 2026-04-09
+    topic: clinical-ethics
+    question_line: "whether repeated value consistency can count as a real sign of participation without collapsing into mere choice repetition"
+    notes_file: "notes/2026-04-09-value-consistency-and-the-limits-of-repeated-choice.md"
+    status: read
