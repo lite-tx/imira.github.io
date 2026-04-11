@@ -1041,3 +1041,60 @@ materials:
     question_line: "whether repeated value consistency can count as a real sign of participation without collapsing into mere choice repetition"
     notes_file: "notes/2026-04-09-value-consistency-and-the-limits-of-repeated-choice.md"
     status: read
+
+  - title: "Assessing capacity to consent to treatment with cholinesterase inhibitors in dementia using a specific and standardized version of the MacArthur Competence Assessment Tool (MacCAT-T)"
+    url: "https://pubmed.ncbi.nlm.nih.gov/27825402/"
+    date: 2026-04-10
+    topic: clinical-ethics
+    question_line: "what makes a value-laden stance in dementia count as more than repeated choice"
+    notes_file: "notes/2026-04-10-value-laden-stance-and-item-level-capacity.md"
+    status: read
+  - title: "Assessment of Capacity to Consent to Treatment: Challenges, the \"ACCT\" Approach, Future Directions"
+    url: "https://pubmed.ncbi.nlm.nih.gov/21494573/"
+    date: 2026-04-10
+    topic: clinical-ethics
+    question_line: "what makes a value-laden stance in dementia count as more than repeated choice"
+    notes_file: "notes/2026-04-10-value-laden-stance-and-item-level-capacity.md"
+    status: read
+  - title: "How do persons with dementia participate in decision making related to health and daily care? A multi-case study"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3475075/"
+    date: 2026-04-10
+    topic: dementia-care
+    question_line: "what makes a value-laden stance in dementia count as more than repeated choice"
+    notes_file: "notes/2026-04-10-value-laden-stance-and-item-level-capacity.md"
+    status: read
+  - title: "Assessment of Healthcare Decision-making Capacity"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5007079/"
+    date: 2026-04-10
+    topic: clinical-ethics
+    question_line: "what makes a value-laden stance in dementia count as more than repeated choice"
+    notes_file: "notes/2026-04-10-value-laden-stance-and-item-level-capacity.md"
+    status: read
+  - title: "\"I See What You Mean\"—A Case Study of the Interactional Foundation of Building a Working Alliance in Care Decisions Involving an Older Couple Living with Cognitive Decline"
+    url: "https://www.mdpi.com/2227-9032/11/15/2124"
+    date: 2026-04-12
+    topic: dementia-care
+    question_line: "how to distinguish supported agreement from soft settlement in triadic dementia/cognitive-decline encounters"
+    notes_file: "notes/2026-04-12-triadic-encounters-and-supported-agreement.md"
+    status: read
+  - title: "Clinician-patient communication during the diagnostic workup: The ABIDE project"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6667786/"
+    date: 2026-04-12
+    topic: dementia-care
+    question_line: "how to distinguish supported agreement from soft settlement in triadic dementia/cognitive-decline encounters"
+    notes_file: "notes/2026-04-12-triadic-encounters-and-supported-agreement.md"
+    status: read
+  - title: "Linguistic Features of Power Dynamics in Triadic Dementia Diagnostic Conversations"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3097295/"
+    date: 2026-04-12
+    topic: dementia-care
+    question_line: "how to distinguish supported agreement from soft settlement in triadic dementia/cognitive-decline encounters"
+    notes_file: "notes/2026-04-12-triadic-encounters-and-supported-agreement.md"
+    status: read
+  - title: "A Visual Approach to Facilitating Conversations about Supportive Care Options in the Context of Cognitive Impairment"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11402575/"
+    date: 2026-04-12
+    topic: dementia-care
+    question_line: "how to distinguish supported agreement from soft settlement in triadic dementia/cognitive-decline encounters"
+    notes_file: "notes/2026-04-12-triadic-encounters-and-supported-agreement.md"
+    status: read
