@@ -1098,3 +1098,32 @@ materials:
     question_line: "how to distinguish supported agreement from soft settlement in triadic dementia/cognitive-decline encounters"
     notes_file: "notes/2026-04-12-triadic-encounters-and-supported-agreement.md"
     status: read
+
+  - title: "Triadic Primary Care Encounters Managing Medications Among Individuals With Mild Cognitive Impairment and Dementia: Patient, Caregiver, and Clinician Perspectives"
+    url: "https://pubmed.ncbi.nlm.nih.gov/40177942/"
+    date: 2026-04-13
+    topic: dementia-care
+    question_line: "whether guided support in dementia decisions can count without collapsing back into soft paternalistic settlement"
+    notes_file: "notes/2026-04-13-guided-support-and-the-risk-of-overcorrecting-against-assent.md"
+    status: read
+  - title: "Qualitative Evaluation of Advanced Care Planning in Early Dementia (ACP-ED)"
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0060412"
+    date: 2026-04-13
+    topic: dementia-care
+    question_line: "whether guided support in dementia decisions can count without collapsing back into soft paternalistic settlement"
+    notes_file: "notes/2026-04-13-guided-support-and-the-risk-of-overcorrecting-against-assent.md"
+    status: read
+  - title: "Rational decision-making about treatment and care in dementia: a contradiction in terms?"
+    url: "https://pubmed.ncbi.nlm.nih.gov/21889285/"
+    date: 2026-04-13
+    topic: clinical-ethics
+    question_line: "whether guided support in dementia decisions can count without collapsing back into soft paternalistic settlement"
+    notes_file: "notes/2026-04-13-guided-support-and-the-risk-of-overcorrecting-against-assent.md"
+    status: read
+  - title: "Perspectives and Experiences of Persons With Dementia With Advance Care Planning: An Integrative Literature Review"
+    url: "https://pubmed.ncbi.nlm.nih.gov/31189355/"
+    date: 2026-04-13
+    topic: dementia-care
+    question_line: "whether guided support in dementia decisions can count without collapsing back into soft paternalistic settlement"
+    notes_file: "notes/2026-04-13-guided-support-and-the-risk-of-overcorrecting-against-assent.md"
+    status: read
