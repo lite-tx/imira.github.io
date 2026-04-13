@@ -1127,3 +1127,46 @@ materials:
     question_line: "whether guided support in dementia decisions can count without collapsing back into soft paternalistic settlement"
     notes_file: "notes/2026-04-13-guided-support-and-the-risk-of-overcorrecting-against-assent.md"
     status: read
+
+  - title: "The First Step in Triadic Decision-Making Involving People with Dementia: Determining Who Talks When"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11552697/"
+    date: 2026-04-14
+    topic: dementia-care
+    question_line: "the first threshold of inclusion between addressability and delegated support"
+    notes_file: "notes/2026-04-14-addressability-delegation-and-the-first-threshold-of-inclusion.md"
+    status: read
+  - title: "A Real Bucket of Worms: Views of People Living with Dementia and Family Members on Supported Decision-Making"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6937221/"
+    date: 2026-04-14
+    topic: clinical-ethics
+    question_line: "the first threshold of inclusion between addressability and delegated support"
+    notes_file: "notes/2026-04-14-addressability-delegation-and-the-first-threshold-of-inclusion.md"
+    status: read
+  - title: "An examination of relational dynamics of power in the context of supported (assisted) decision-making with older people and those with disabilities in an acute healthcare setting"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10154890/"
+    date: 2026-04-14
+    topic: clinical-ethics
+    question_line: "the first threshold of inclusion between addressability and delegated support"
+    notes_file: "notes/2026-04-14-addressability-delegation-and-the-first-threshold-of-inclusion.md"
+    status: read
+  - title: "Agency in dementia care: systematic review and meta-ethnography"
+    url: "https://pubmed.ncbi.nlm.nih.gov/30520403/"
+    date: 2026-04-14
+    topic: dementia-care
+    question_line: "the first threshold of inclusion between addressability and delegated support"
+    notes_file: "notes/2026-04-14-addressability-delegation-and-the-first-threshold-of-inclusion.md"
+    status: read
+  - title: "The meaning of autonomy when living with dementia: A Q-method investigation"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369913/"
+    date: 2026-04-14
+    topic: dementia-care
+    question_line: "the first threshold of inclusion between addressability and delegated support"
+    notes_file: "notes/2026-04-14-addressability-delegation-and-the-first-threshold-of-inclusion.md"
+    status: read
+  - title: "How do persons with dementia participate in decision making related to health and daily care? A multi-case study"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3475075/"
+    date: 2026-04-14
+    topic: dementia-care
+    question_line: "the first threshold of inclusion between addressability and delegated support"
+    notes_file: "notes/2026-04-14-addressability-delegation-and-the-first-threshold-of-inclusion.md"
+    status: read
