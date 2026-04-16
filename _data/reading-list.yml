@@ -1184,3 +1184,24 @@ materials:
     question_line: "what observable interactional moves keep support tethered to the person rather than route around them"
     notes_file: "notes/2026-04-16-addressability-is-not-enough.md"
     status: read
+  - title: "Medical decision-making experiences of persons with dementia and their carepartners: a qualitative study"
+    url: "https://link.springer.com/article/10.1186/s12904-025-01710-9"
+    date: 2026-04-17
+    topic: dementia-care
+    question_line: "what observable clinical move keeps carepartner support from drifting into proxy voice"
+    notes_file: "notes/2026-04-17-clinical-corroboration-and-the-risk-of-proxy-drift.md"
+    status: read
+  - title: "Are you talking to me?! An exploration of the triadic physician-patient-companion communication within memory clinics encounters"
+    url: "https://pubmed.ncbi.nlm.nih.gov/22789148/"
+    date: 2026-04-17
+    topic: dementia-care
+    question_line: "what observable clinical move keeps carepartner support from drifting into proxy voice"
+    notes_file: "notes/2026-04-17-clinical-corroboration-and-the-risk-of-proxy-drift.md"
+    status: read
+  - title: '"Speaking-for" and "speaking-as": pseudo-surrogacy in physician-patient-companion medical encounters about advanced cancer'
+    url: "https://pubmed.ncbi.nlm.nih.gov/24862913/"
+    date: 2026-04-17
+    topic: clinical-ethics
+    question_line: "what observable clinical move keeps carepartner support from drifting into proxy voice"
+    notes_file: "notes/2026-04-17-clinical-corroboration-and-the-risk-of-proxy-drift.md"
+    status: read
