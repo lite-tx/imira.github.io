@@ -1205,3 +1205,39 @@ materials:
     question_line: "what observable clinical move keeps carepartner support from drifting into proxy voice"
     notes_file: "notes/2026-04-17-clinical-corroboration-and-the-risk-of-proxy-drift.md"
     status: read
+
+  - title: "Recommendations | Decision-making and mental capacity | Guidance"
+    url: "https://www.nice.org.uk/guidance/ng108/chapter/Recommendations"
+    date: 2026-04-19
+    topic: clinical-ethics
+    question_line: "what keeps support answerable when direct verbal corroboration becomes thin or impossible"
+    notes_file: "notes/2026-04-19-capacity-support-when-corroboration-thins.md"
+    status: read
+  - title: "Capacity issues and decision-making in dementia"
+    url: "https://journals.lww.com/annalsofian/fulltext/2016/19001/Capacity_issues_and_decision_making_in_dementia.8.aspx"
+    date: 2026-04-19
+    topic: dementia-care
+    question_line: "what keeps support answerable when direct verbal corroboration becomes thin or impossible"
+    notes_file: "notes/2026-04-19-capacity-support-when-corroboration-thins.md"
+    status: read
+  - title: "Supported decision-making and mental capacity assessment in care homes: A qualitative study"
+    url: "https://pubmed.ncbi.nlm.nih.gov/34250675/"
+    date: 2026-04-19
+    topic: dementia-care
+    question_line: "what keeps support answerable when direct verbal corroboration becomes thin or impossible"
+    notes_file: "notes/2026-04-19-capacity-support-when-corroboration-thins.md"
+    status: read
+  - title: "A shared decision-making model about care for people with severe dementia: A qualitative study based on nutrition and hydration decisions in acute hospitals"
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/gps.5884"
+    date: 2026-04-19
+    topic: dementia-care
+    question_line: "what keeps support answerable when direct verbal corroboration becomes thin or impossible"
+    notes_file: "notes/2026-04-19-capacity-support-when-corroboration-thins.md"
+    status: read
+  - title: "Advance care planning information intervention for persons with mild dementia and their family caregivers: Impact on end-of-life care decision conflicts"
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240684"
+    date: 2026-04-19
+    topic: dementia-care
+    question_line: "what keeps support answerable when direct verbal corroboration becomes thin or impossible"
+    notes_file: "notes/2026-04-19-capacity-support-when-corroboration-thins.md"
+    status: read
